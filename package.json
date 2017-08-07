@@ -1,0 +1,14 @@
+{
+  "name": "reading_level",
+  "version": "1.0.0",
+  "description": "Computes the reading level for a piece of text",
+  "main": "readinglevel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rita": "^1.2.12"
+  }
+}
