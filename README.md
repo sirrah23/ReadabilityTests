@@ -1,11 +1,11 @@
 # Reading Level
 
 ## Description
-This is a console application that will determine 
-the reading level for a piece of text.
+This is a command line tool that will determine 
+the reading ease and grade level for a piece of text.
 
 ## Usage
-readinglevel.js input.txt
+readingscore.js --filename=input.txt
 
 ## The Formula
 The formula that is used to compute reading levels
